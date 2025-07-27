@@ -1,2 +1,9 @@
 # rs-todo-cli
-Todo cli for learning Rust Programming language
+Simple todo Cli for learning Rust and basic CLI development
+
+## Features
+
+- Add tasks
+- Delete tasks
+- List tasks
+- Mark tasks as completed
